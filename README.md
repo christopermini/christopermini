@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<img width="1825" alt="img">
+
+- 👋 Hi, I’m @christopermini I have studied computer engineering for 3 years and am continuing to study.
+- 👀 I will grow into an engineer who changes the world with code.
+- 🌱 I’m currently learning Web, Android Develop.
+- 📫 How to reach me <csm01128@gmail.com>
+
+
 <!--
 **christopermini/christopermini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
