@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img width="1825" alt="img">
+<img width="1825" alt="[img](https://github.com/christopermini/christopermini/issues/1#issue-2142838876)">
 
 - 👋 Hi, I’m @christopermini I have studied computer engineering for 3 years and am continuing to study.
 - 👀 I will grow into an engineer who changes the world with code.
