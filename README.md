@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<img width="1825" alt="[img](https://github.com/christopermini/christopermini/issues/1#issue-2142838876)">
-
+![스크린샷 2024-02-20 002948](https://github.com/christopermini/christopermini/assets/127646215/267836d4-beb8-4d85-b756-678315f68671)
 - 👋 Hi, I’m @christopermini I have studied computer engineering for 3 years and am continuing to study.
 - 👀 I will grow into an engineer who changes the world with code.
 - 🌱 I’m currently learning Web, Android Develop.
@@ -12,6 +10,7 @@
 **christopermini/christopermini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![스크린샷 2024-02-20 002948](https://github.com/christopermini/christopermini/assets/127646215/46426c8b-2314-4069-abea-8af6f4c84495)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
